@@ -1,0 +1,10 @@
+Musicians(id, name, phone, st, city)
+Album(id, date, title, id)
+Instrument(name, key)
+Song(title, author,id)
+MusicianInstrument(id, name)
+MusicianSong(id, title)
+
+
+
+

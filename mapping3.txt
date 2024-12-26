@@ -1,0 +1,9 @@
+patient(id, name, dob, manger id, manager id)
+consultant(id, name)
+nurse(id, name, manager id)
+ward(id, name)
+drug(code, recdosage)
+drugbrand(code, brand)
+patientdrug(id, code, date, time, dosage)
+patientnurse(id, manager id, date, time, dosage)
+

@@ -1,0 +1,5 @@
+saleoffice(num, loc,)
+employee(id, name, num)
+property(id, add, city, state, zip)
+owner(id, name)
+propertyowner(id, id, percent_owned)
